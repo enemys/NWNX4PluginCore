@@ -1,0 +1,5 @@
+LIBRARY	"NWNX4PluginCore"
+
+EXPORTS
+
+	GetPluginPointerV2
